@@ -4,6 +4,8 @@
 
 ### How to use this widget on your dashboard:
 
+### Note: If you want to code, there is a folder with the name 'code_thermostat' that includes html, css, javascript.
+
 ![image](https://github.com/nicolas-davila/widgets-thingsboard/assets/123404361/2551257a-42c5-498b-b5e3-7e9bb08f5880)
 
 - You will have to dowload the 'thermostat_upgraded.json';
