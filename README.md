@@ -1,4 +1,4 @@
-# widgets-thingsboard
+### widgets-thingsboard
  
 * This repository was made to help who need a new widget on thingsboard
 
