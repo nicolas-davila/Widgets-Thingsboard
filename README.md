@@ -1,8 +1,8 @@
 # widgets-thingsboard
  
-## This repository was made to help who need a new widget on thingsboard
+* This repository was made to help who need a new widget on thingsboard
 
-### How to use this widget on your dashboard:
+## How to use this widget on your dashboard:
 
 ## Note: If you want to code, there is a folder with the name 'code_thermostat' that includes html, css, javascript.
 <hr>
