@@ -1,0 +1,28 @@
+<link
+    href="https://fonts.googleapis.com/icon?family=Material+Icons"
+    rel="stylesheet">
+
+<div class="thermostat">
+    <div class="bar">
+        <div class="inner_bar"></div>
+        <div class='hold left'>
+            <div class='fill fill1'></div>
+        </div>
+        <div class='hold right'>
+            <div class='fill fill2'></div>
+        </div>
+        <span>Heating</span>
+    </div>
+    <div class="shadow">
+        <div class="shadow-cube"></div>
+    </div>
+    <div class="center">
+        <div class="small">
+            <div *ngFor="let dataKeyData of data">
+                <div class="heat">
+                    {{dataKeyData.data[0] && dataKeyData.data[0][1]}}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
