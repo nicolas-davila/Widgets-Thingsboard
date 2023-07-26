@@ -10,4 +10,4 @@
 - Now you go to 'widget library', go to your widget pack, click in the '+' symbol and click in the 'import widget type';
 - And now you just have to select the '.json' file you downloaded.
 
-### Now you just have to save you package and import it in your dashboard!!
+### Now you just have to save your package and import it in the dashboard!!
