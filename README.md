@@ -5,7 +5,6 @@
 ## How to use this widget on your dashboard 
 
 Note: If you want the code, there is a folder with the name 'code_thermostat' that includes html, css, javascript.
-<hr>
 
 - thermostat_upgraded.json: :arrow_down::arrow_down:
 
