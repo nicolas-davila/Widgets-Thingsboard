@@ -16,6 +16,8 @@ Note: If you want the code, there is a folder with the name 'code_thermostat' th
 
 ### Now you just have to save your package and import it in the dashboard!!
 
+<hr>
+
 - fluid_level.json: :arrow_down::arrow_down:
 
 ![image](https://github.com/nicolas-davila/widgets-thingsboard/assets/123404361/d4770904-ab25-4a5b-8e24-5156b2951189)
@@ -25,6 +27,8 @@ Note: If you want the code, there is a folder with the name 'code_thermostat' th
 - And now you just have to select the '.json' file you downloaded.
 
 ### Fluid Level widget imported successfully!
+
+<hr>
 
 - timesseries_updated.json (with chart.js): :arrow_down::arrow_down:
 
