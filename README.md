@@ -26,7 +26,7 @@ Note: If you want the code, there is a folder with the name 'code_thermostat' th
 
 ### Fluid Level widget imported successfully!
 
-- Timeseries (Chart.js)
+- timesseries_updated.json (with chart.js): :arrow_down::arrow_down:
 
 ![image](https://github.com/nicolas-davila/widgets-thingsboard/assets/123404361/471991ce-fd00-49bc-9682-11b980470224)
 
