@@ -25,3 +25,17 @@ Note: If you want the code, there is a folder with the name 'code_thermostat' th
 - And now you just have to select the '.json' file you downloaded.
 
 ### Fluid Level widget imported successfully!
+
+- Timeseries (Chart.js)
+
+![image](https://github.com/nicolas-davila/widgets-thingsboard/assets/123404361/471991ce-fd00-49bc-9682-11b980470224)
+
+- Dowload the 'thermostat_upgraded.json';
+- Go to 'widget library', widget pack, click in the '+' symbol and click in the 'import widget type';
+- And now you just have to select the '.json' file you downloaded.
+
+#### Note: 
+
+- You have to add this link 'https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js' on the tab 'resources'.
+
+### Timeseries widget imported successfully!
