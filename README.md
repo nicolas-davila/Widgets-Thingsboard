@@ -44,6 +44,8 @@ Note: If you want the code, there is a folder with the name 'code_thermostat' th
 
 ### Timeseries widget imported successfully!
 
+<hr>
+
 - state_card.json: :arrow_down::arrow_down:
 
  ![image](https://github.com/nicolas-davila/widgets-thingsboard/assets/123404361/06aff05d-db5b-44e7-b187-94081142b481)
