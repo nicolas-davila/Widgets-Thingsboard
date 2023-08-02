@@ -4,8 +4,6 @@
 
 ## How to imoprt widgets on thingsboard
 
-Note: If you want the code, there is a folder with the name 'code_thermostat' that includes html, css, javascript.
-
 - thermostat_upgraded.json: :arrow_down::arrow_down:
 
 ![image](https://github.com/nicolas-davila/widgets-thingsboard/assets/123404361/2551257a-42c5-498b-b5e3-7e9bb08f5880)
